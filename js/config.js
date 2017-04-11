@@ -1,6 +1,6 @@
 // 网站设置
 var name = "官方网站"; // 网站名称（主站名称）
-var home = "http://www.duoduodazhe.com/"; // 网站地址（主页网址）
+var home = "http://www.tejia369.com/"; // 网站地址（主页网址）
 var ICP = ""; // 网站备案/许可证号（可以不填）
 var Mail = ""; // 站长邮箱（用于接收更新提醒）
 
