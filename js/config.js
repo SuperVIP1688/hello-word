@@ -24,7 +24,7 @@ var Pid_Window = "mm_00000000_00000000_00000000"; // 橱窗推广
 
 
 /*
-* 版权声明：淘宝金币一键领取版权归《多多打折》独家所有。
+* 版权声明：淘宝金币一键领取版权归《特价优惠网》独家所有。
 * 　　　　　任何组织和个人不得删除此版权信息。
-* 开源地址：https://code.aliyun.com/duoduo/Taobao-Coin
+* 开源地址：https://code.aliyun.com//Taobao-gold/One-key-receive
 */
