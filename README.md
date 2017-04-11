@@ -98,7 +98,7 @@ var Pid_Window = "mm_00000000_00000000_00000000"; // 橱窗推广
 - **官方网站**：`http://www.tejia369.com/`
 - **演示页面**：`http://www.tejia369.com/App/Web/One-key-receive/`
 - **开源地址**：`https://code.aliyun.com//Taobao-gold/One-key-receive`
-- **源码下载**：`https://code.aliyun.com/superviphcc/One-key-receive/repository/archive.zip`
+- **源码下载**：`https://code.aliyun.com/Taobao-gold/One-key-receive/repository/archive.zip`
 
 #### 技术支持
 - **邮箱地址**：`13512573173`@`qq.com`
