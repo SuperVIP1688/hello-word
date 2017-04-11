@@ -94,7 +94,7 @@ var Pid_Window = "mm_00000000_00000000_00000000"; // 橱窗推广
 
 # 版权信息
 #### 版权声明
-- **版权归属**：`特价369`
+- **版权归属**：`特价优惠网`
 - **官方网站**：`http://www.tejia369.com/`
 - **演示页面**：`http://www.tejia369.com/App/Web/One-key-receive/`
 - **开源地址**：`https://code.aliyun.com//Taobao-gold/One-key-receive`
