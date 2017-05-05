@@ -1,6 +1,6 @@
 body {
     /*移动设备背景图片*/
-    background-image: url("//i1.piimg.com/591098/b29f15fe1ba95c17.jpg");
+    background-image: url("//oiqx1annh.qnssl.com/uploads/1703/121053571095.jpg");
 }
 .content {
     /*移动设备中心区域背景颜色*/
@@ -12,7 +12,7 @@ body {
 @media screen and (min-width: 999px) {
     body {
         /*电脑设备背景图片*/
-        background-image: url("//i1.piimg.com/591098/ea4bf2d900c56ed7t.jpg");
+        background-image: url("//www.bing.com/az/hprichbg/rb/NavagioBeach_ZH-CN8854639142_1280x720.jpg");
     }
     .content {
         /*电脑设备中心区域背景颜色*/
