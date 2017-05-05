@@ -101,4 +101,4 @@ var Pid_Window = "mm_110817411_21120344_71204874"; // 橱窗推广
 - **源码下载**：`https://code.aliyun.com/Taobao-gold/One-key-receive/repository/archive.zip`
 
 #### 技术支持
-- **邮箱地址**：`13512573173`@`qq.com`
+- **邮箱地址**：`1351257317`@`qq.com`
