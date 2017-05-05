@@ -13,8 +13,8 @@
             // 网站统计代码区域
             var _hmt = _hmt || [];
             (function() {
-                var hm = document.createElement("script");
-                hm.src = "https://hm.baidu.com/hm.js?aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa";
+                 var hm = document.createElement("script");
+                hm.src = "https://hm.baidu.com/hm.js?8aad44ef73c06ca5894fe12670caaa7b";
                 var s = document.getElementsByTagName("script")[0];
                 s.parentNode.insertBefore(hm, s);
             })();
