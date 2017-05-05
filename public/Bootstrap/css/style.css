@@ -1,0 +1,70 @@
+﻿html {
+    margin: 0;
+    padding: 0;
+}
+body {
+    margin: 0 auto;
+    padding: 0;
+    display: none;
+    min-width: 100%;
+    min-height: 100%;
+    overflow-x: hidden;
+    /*移动设备背景图片*/
+    background: #808080 url("//oiqx1annh.qnssl.com/uploads/1703/111049248338.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -ms-background-size: cover;
+    background-size: cover;
+    font-size: 18px;
+    font-family: "Helvetica Neue", Helvetica, Arial, "PingFang SC", "Hiragino Sans GB", "Heiti SC", "Microsoft Yahei", "WenQuanYi Micro Hei", sans-serif;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+@media screen and (min-width: 999px) {
+    body {
+        /*电脑设备背景图片*/
+        background-image: url("//oiqx1annh.qnssl.com/uploads/1703/110119008899.jpg");
+    }
+}
+a, button, input {
+    outline: none !important;
+}
+ul {
+    padding: 0;
+}
+ul li {
+    list-style-type: none;
+}
+header .navbar {
+    margin-bottom: 4px;
+    background-color: #ddd;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+}
+.content {
+    padding-top: 15px;
+    background-color: #ddd;
+    opacity: 0.8;
+}
+.content .clock {
+    display: none;
+}
+div.panel-body {
+    overflow: hidden;
+}
+a {
+    background-color: #337ab7;
+}
+.share {
+    margin: 4px auto;
+    padding: 4px;
+    background-color: #ddd;
+    opacity: 0.8;
+}
+.copyright {
+    padding: 8px 0;
+    background-color: #ddd;
+}
